@@ -12,5 +12,4 @@ class Chick implements Animal
      }
      public String getSound(){return mySound;}
      public String getType(){return myType;}
-     //your code here
 }
